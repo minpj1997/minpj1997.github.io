@@ -17,6 +17,7 @@ The site uses plain HTML and CSS. There is no framework, package installation, o
 | `teaching.html` | Teaching and research experience |
 | `papers/*.html` | Individual paper pages and bibliographic metadata |
 | `assets/style.css` | Typography, colors, spacing, and mobile layout |
+| `assets/pengjin-min.jpg` | Profile photo |
 | `files/Pengjin_Min_CV.pdf` | Downloadable CV |
 
 To update the CV, upload a replacement PDF using the same filename. When you change a paper, update both its entry in `research.html` and its individual page in `papers/`. The main paper links point to arXiv, so readers can access the current public version.
